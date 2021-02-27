@@ -1,2 +1,3 @@
 This is just a test
 
+To start ngrok, navigate to /Applications. The use ./ngrok http <port> 
